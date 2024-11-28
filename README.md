@@ -33,6 +33,7 @@ If any of these projects your interest, simply navigate to the respective projec
 Should you have any inquiries, feedback, or wish to explore potential collaboration opportunities, please don't hesitate to get in touch:
 
 - **LinkedIn:** [Rushikesh Khalkar's LinkedIn](https://www.linkedin.com/in/rushikesh-khalkar-271877265/)
+- **Email:** [Rushikesh Khalkar's Mail](rushikhalkar10032004@gmail.com)
 
 Thank you for visiting my AWS Projects Portfolio! I trust you'll find these projects not only informative but also inspiring.
 
